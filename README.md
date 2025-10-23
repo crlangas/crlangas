@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-A proggraming student who is passionate about lerning java and loves to tinker with computers.
+A proggraming student who is passionate about learning and loves to tinker with computers.
+Currently learning javascript and php.
 
 
 # 💻 Tech Stack:
